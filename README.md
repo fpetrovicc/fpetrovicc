@@ -11,9 +11,9 @@
 const filip = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python],
-  tools: [Bootstrap],
+  tools: [Visual Studio Code],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
-  challenge: "I am learning MITx course on CS and Python and I want to finish it. I also want to tackle coding more."
+  challenge: "I am aiming to do whole freeCodeCamp certification."
 }
 ```
 
