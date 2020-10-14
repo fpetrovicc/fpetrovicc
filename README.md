@@ -10,10 +10,10 @@
 ```javascript
 const filip = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Python],
+  code: [HTML, CSS, C++],
   tools: [Visual Studio Code],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
-  challenge: "I am aiming to do whole freeCodeCamp certification."
+  challenge: "Doing C++ regularly."
 }
 ```
 
