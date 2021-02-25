@@ -13,7 +13,7 @@ const filip = {
   code: [HTML, CSS, C++],
   tools: [Visual Studio Code],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
-  challenge: "Doing C++ regularly."
+  challenge: "Fulfilling my goals."
 }
 ```
 
