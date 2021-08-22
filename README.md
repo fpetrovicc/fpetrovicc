@@ -11,7 +11,7 @@
 const filip = {
   pronouns: "he" | "him",
   code: [HTML, CSS, C++],
-  tools: [JetBrains CLion, JetBrains Rider, Visual Studio Code, vim],
+  tools: ["JetBrains CLion", "JetBrains Rider", "Visual Studio Code", "vim"],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
   challenge: "Get better at C++ & OS development"
 }
