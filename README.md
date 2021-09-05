@@ -10,7 +10,7 @@
 ```javascript
 const filip = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, C++, C#],
+  code: ["HTML", "CSS", "C++", "C#"],
   tools: ["JetBrains CLion", "JetBrains Rider", "Visual Studio Code", "vim"],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
   challenge: "Get better at C++, C# & OS development"
