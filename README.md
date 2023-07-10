@@ -10,10 +10,10 @@
 ```javascript
 const filip = {
   pronouns: "he" | "him",
-  code: ["HTML", "CSS", "C++", "C#"],
-  tools: ["Visual Studio 2022", "Visual Studio Code", "vim"],
+  code: ["HTML", "CSS", "C", "C#", "Python"],
+  tools: ["Visual Studio 2022", "vim"],
   goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
-  challenge: "Get better at C++, C# & OS development"
+  challenge: "Get better at C & OS development"
 }
 ```
 
