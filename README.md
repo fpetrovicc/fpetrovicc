@@ -1,6 +1,6 @@
 <h2> Hey there, my name is Filip! <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="40"></h2>
 <img align='right' src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif" width="230">
-<p><em>Mechatronics Student at <a href="https://www.ftn.uns.ac.rs/" target="_blank" rel="noopener noreferrer">Faculty of Technical Sciences, University of Novi Sad </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30"></br>Freelance developer <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"></em></p>
+<p><em>Mechatronics Student at <a href="https://www.ftn.uns.ac.rs/" target="_blank" rel="noopener noreferrer">Faculty of Technical Sciences, University of Novi Sad </a><img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30">
 
 [![Twitter: fpetrovicch](https://img.shields.io/twitter/follow/fpetrovicch?style=social)](https://twitter.com/fpetrovicch)
 [![Linkedin: fpetrovicc](https://img.shields.io/badge/-fpetrovicc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fpetrovicc/)](https://www.linkedin.com/in/fpetrovicc/)
@@ -10,10 +10,9 @@
 ```javascript
 const filip = {
   pronouns: "he" | "him",
-  code: ["HTML", "CSS", "C", "C#", "Python"],
-  tools: ["Visual Studio 2022", "vim"],
-  goals: ["learnMoreLanguages", "stayConsistent", "findGig"],
-  challenge: "Get better at C & OS development"
+  code: ["C", "C++", "Python"],
+  tools: ["JetBrains CLion", "Visual Studio Code", "Autodesk Fusion 360"],
+  challenge: "Get better at C, C++, CV, Embedded"
 }
 ```
 
